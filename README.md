@@ -3,7 +3,6 @@ Html / Css  / Sass / Bootstrap5 / Javascript
 
 This is a team project, please visit：https://github.com/aqizzz/Wedding-project
 
-A wedding website that customers can register, login, edit profile, make a rental and catering reservation and pay for it. 
 
 # My Task
 
