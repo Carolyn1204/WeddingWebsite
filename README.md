@@ -1,12 +1,12 @@
 # Wedding Website
-Html / Css  / Sass / Bootstrap5 / Javascript
+Html / Css  / Sass / Bootstrap5 / Javascript /Ajax
 
 This is a team project, please visit：https://github.com/aqizzz/Wedding-project
 
 
 # My Task
 
-I was responsible for the home page, service page and also the function of making a rental and catering reservation:
+I was responsible for the home page, service page and also the function of making a rental and catering reservation, using ajax to read the rental and catering data from a local file:
 
 ![p1](https://github.com/user-attachments/assets/f4da76bf-2b90-4195-a41b-67f0dff0d678)
 
